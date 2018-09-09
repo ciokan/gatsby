@@ -2387,3 +2387,16 @@
     - Portfolio
     - Web Dev
   featured: false
+- title: Qards
+  main_url: 'https://www.qards.io'
+  url: 'https://www.qards.io'
+  description: >
+    A blogging platform for professionals. Qards is a blogging platform focused on performance and on closing the gap between content publishers and developers
+  categories:
+    - Blog
+    - Website
+    - Platform
+    - Open Source
+    - Technology
+  featured: false
+  
